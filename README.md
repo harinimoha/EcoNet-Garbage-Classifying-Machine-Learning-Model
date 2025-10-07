@@ -1,4 +1,4 @@
-#**EcoNet: Deep Learning Waste Classification**
+#EcoNet: Deep Learning Waste Classification
 
 EcoNet is a computer vision project that classifies waste into 10 categories to support smarter environmental disposal.
 Built with PyTorch, the model fine-tunes a ResNet-18 backbone with a custom GeM pooling layer, achieving 92%+ validation accuracy.
